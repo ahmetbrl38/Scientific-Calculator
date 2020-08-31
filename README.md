@@ -38,4 +38,4 @@ It is a modern Windows Forms App written in C#. The app provides standard,scient
 
 ### Setup File
 
-[Bilgi Yarışması Setup](https://github.com/ahmetbrl38/Scientific-Calculator/tree/master/CalculaTRY)
+[CalculaTRY Setup](https://github.com/ahmetbrl38/Scientific-Calculator/tree/master/CalculaTRY)
