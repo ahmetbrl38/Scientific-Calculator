@@ -1,3 +1,4 @@
+![Made with love in Turkey](https://madewithlove.now.sh/tr?heart=true&colorA=%23746d6d&template=for-the-badge)
 # :computer: Scientific-Calculator
 CalculaTRY is a scientific calculator to do most of the operations used in Math,Statics etc.
 It is a modern Windows Forms App written in C#. The app provides standard,scientific calculators and temperature unit converter functionality.
