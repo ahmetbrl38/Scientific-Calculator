@@ -40,3 +40,13 @@ It is a modern Windows Forms App written in C#. The app provides standard,scient
 ### Setup File
 
 [CalculaTRY Setup](https://github.com/ahmetbrl38/Scientific-Calculator/tree/master/CalculaTRY)
+
+![](CalculaTRY/Calcula1.png)
+
+![](CalculaTRY/calcula2.png)
+
+![](CalculaTRY/calcula3.png)
+
+![](CalculaTRY/calcula4.png)
+
+![](CalculaTRY/calcula5.png)
